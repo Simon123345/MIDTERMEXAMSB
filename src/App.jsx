@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   const [displayText, setDisplayText] = useState('10 Things That Require Zero Talent');
 
-  // Change these to your actual details
+ 
   const fullName = 'Simon Bondoc';
   const section = 'BSIT_WMD3A';
   const subjectCode = 'C-PCIT9';
