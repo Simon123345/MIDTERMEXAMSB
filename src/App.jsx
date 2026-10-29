@@ -6,7 +6,7 @@ function App() {
 
  
   const fullName = 'Simon Bondoc';
-  const section = 'BSIT_WMD3A';
+  const section = 'IT-3A';
   const subjectCode = 'C-PCIT9';
 
   const items = {
